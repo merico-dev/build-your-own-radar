@@ -115,7 +115,7 @@ module.exports = {
         type: 'asset/resource',
       },
       {
-        test: /\.(png|jpg|jpeg|gif|ico|svg)$/,
+        test: /\.(png|jpg|jpeg|gif|ico|svg|json)$/,
         exclude: /node_modules/,
         type: 'asset/resource',
       },

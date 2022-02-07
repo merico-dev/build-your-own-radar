@@ -1,0 +1,44 @@
+[
+  {
+    "name": "react",
+    "ring": "adopt",
+    "quadrant": "framework",
+    "isNew": "FALSE",
+    "description": "<a href='https://reactjs.org/'>https://reactjs.org/</a>"
+  },
+  {
+    "name": "mobx-state-tree",
+    "ring": "trial",
+    "quadrant": "framework",
+    "isNew": "FALSE",
+    "description": "..."
+  },
+  {
+    "name": "ramda",
+    "ring": "hold",
+    "quadrant": "utility",
+    "isNew": "FALSE",
+    "description": "..."
+  },
+  {
+    "name": "lodash",
+    "ring": "adopt",
+    "quadrant": "utility",
+    "isNew": "FALSE",
+    "description": "..."
+  },
+  {
+    "name": "bizcharts",
+    "ring": "hold",
+    "quadrant": "UI/UX",
+    "isNew": "FALSE",
+    "description": "..."
+  },
+  {
+    "name": "monorepo",
+    "ring": "assess",
+    "quadrant": "tech & etc.",
+    "isNew": "FALSE",
+    "description": "..."
+  }
+]
