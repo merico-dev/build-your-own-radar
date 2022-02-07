@@ -17,10 +17,10 @@
     "quality": "npm run prettier:lint && npm run coverage",
     "quality:nonstrict": "npm run prettier && npm run coverage"
   },
-  "author": "Thoughtworks",
+  "author": "Merico",
   "repository": {
     "type": "git",
-    "url": "https://github.com/thoughtworks/build-your-own-radar"
+    "url": "https://github.com/merico-dev/build-your-own-radar"
   },
   "keywords": [
     "tech-radar"
